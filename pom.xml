@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.renuox</groupId>
     <artifactId>supermarket</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>supermarket</name>
     <description>supermarket project for Spring Boot</description>
     <url/>
